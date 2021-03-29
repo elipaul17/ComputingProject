@@ -14,4 +14,4 @@ Josh Spears: The goal of our project is to analyze data in a capstone project co
 
 Dakota Clark: The overall goal of our experiment is to perform data analysis of a capstone project using R and Mathematica, and then compare the language used in each. To date, I have reviewed directions and resources describing the use of Mathematica to analyze data (which is the program my group will be using), and I have downloaded Mathematica onto my computer. No analysis has been able to be performed yet as we are waiting for the capstone project to conclude.
 
-Eli Paul I downloaded a 15 day trial for Mathematica and am working on getting comfortable with it. A way to get Mathematica for a longer period of time will be necessary though.
+Eli Paul: I downloaded a 15 day trial for Mathematica and am working on getting comfortable with it. A way to get Mathematica for a longer period of time will be necessary though. Additonally, we are using my capstone project for this computing project.
